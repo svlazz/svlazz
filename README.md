@@ -1,5 +1,16 @@
-### Hi there 👋
+# Hello! I'm svlazz 👋
+### About Me
 
+I am a Junior Systems Administrator passionate about technology and automation. I have experience working with:
+
+- Linux: Administration of Linux operating systems.
+- Ansible: Task automation and configuration management.
+- Docker: Container creation and management.
+- Kubernetes: Container orchestration and application deployment in clusters.
+- Terraform: Infrastructure as code for resource management and provisioning.
+### Interests
+- DevOps: Continuous integration and delivery, automation, and improvement of development and operations processes.
+- Cybersecurity: System and network protection, vulnerability analysis, and security practices.
 <!--
 **svlazz/svlazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
