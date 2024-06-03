@@ -1,4 +1,5 @@
 # Hello! I'm svlazz 👋
+<!--
 ### About Me
 
 I am a Junior Systems Administrator passionate about technology and automation. I have experience working with:
