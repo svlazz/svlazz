@@ -25,6 +25,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm passionate about computer science, specializing in system administration and DevOps. I enjoy working with Ansible, Python, Docker, Kubernetes, and CI/CD pipelines.
-
-Connect with me on [LinkedIn](https://www.linkedin.com/in/dvnielsalas).
+sysadmin & devops
